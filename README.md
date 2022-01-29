@@ -6,3 +6,4 @@
 
 - Bid to by position
 - Competitive analysis
+- PPC pay per click (only pay when your link clicked)
