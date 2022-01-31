@@ -10,6 +10,9 @@ Google ads is used by advertisers and adSense is used by publishers. Advertisers
 
 A search term is a word or set of words a person enters when searching on Google or one of our Search Network sites. A keyword is a word or set of words that Google Ads advertisers can add to a given ad group so that your ads are targeting the right audience.
 
+Search term - How to decorate a farmhouse?
+Keyword - farmhouse decor
+
 ## Key Concepts
 
 - Bid to by position
