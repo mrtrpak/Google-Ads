@@ -10,3 +10,10 @@ Google ads is used by advertisers and adSense is used by publishers. Advertisers
 - Bid to by position
 - Competitive analysis
 - PPC pay per click (only pay when your link clicked)
+
+## Account Heirarchy
+
+Account: email, time zone, billing, user access
+Campaign(s): location targeting, ad scheduling, device targeting, audience targeting settings
+Ad groups
+Ads / Keywords
